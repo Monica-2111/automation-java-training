@@ -65,3 +65,4 @@ public class ReqResApiTest {
                 .body("data.size()", org.hamcrest.Matchers.greaterThan(0));
     }
 }
+

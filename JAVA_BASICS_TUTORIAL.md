@@ -230,3 +230,4 @@ java -XshowSettings:properties -version
 **Solution**: Check Maven dependencies and classpath
 
 This tutorial provides the foundation for understanding how Java concepts apply to automation testing with Selenium and Rest Assured.
+
